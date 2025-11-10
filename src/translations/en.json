@@ -1,0 +1,173 @@
+{
+  "navbar": {
+    "home": "Home",
+    "history": "History",
+    "help": "Help",
+    "profile": "Profile",
+    "appName": "RightsPath",
+    "logout": "Logout",
+    "login": "Login"
+  },
+  "landing": {
+    "title": "RightsPath",
+    "subtitle": "Justice, Made Simple. In Your Language.",
+    "description": "Your AI-powered assistant for legal rights and government schemes. Get instant answers in English, Hindi, or Tamil.",
+    "getStarted": "Get Started",
+    "features": {
+      "voiceText": {
+        "title": "Voice & Text Support",
+        "description": "Ask questions in your preferred language using voice or text"
+      },
+      "legalRights": {
+        "title": "Legal Rights Simplified",
+        "description": "Complex legal information explained in simple, understandable terms"
+      },
+      "govSchemes": {
+        "title": "Government Schemes",
+        "description": "Discover benefits and schemes you are eligible for"
+      }
+    }
+  },
+  "login": {
+    "welcomeBack": "Welcome Back",
+    "emailOrPhoneLabel": "Email or Phone Number",
+    "emailOrPhonePlaceholder": "Enter your email or phone",
+    "passwordLabel": "Password",
+    "passwordPlaceholder": "Enter your password",
+    "loginButton": "Login",
+    "orDivider": "or",
+    "continueWithGoogle": "Continue with Google",
+    "noAccount": "Don't have an account?",
+    "signUp": "Sign up"
+  },
+  "signup": {
+    "createAccount": "Create Account",
+    "nameLabel": "Full Name",
+    "namePlaceholder": "Enter your full name",
+    "emailLabel": "Email Address",
+    "emailPlaceholder": "Enter your email address",
+    "passwordLabel": "Password",
+    "passwordPlaceholder": "Create a password (min 6 characters)",
+    "confirmPasswordLabel": "Confirm Password",
+    "confirmPasswordPlaceholder": "Confirm your password",
+    "signupButton": "Create Account",
+    "continueWithGoogle": "Sign up with Google",
+    "haveAccount": "Already have an account?",
+    "login": "Login",
+    "passwordMismatch": "Passwords do not match",
+    "passwordTooShort": "Password must be at least 6 characters"
+  },
+  "history": {
+    "title": "Question History",
+    "subtitle": "Your previously asked questions and answers",
+    "questionsCount": "questions",
+    "searchPlaceholder": "Search your history...",
+    "noHistory": "No questions asked yet",
+    "startAsking": "Start asking questions to build your history",
+    "askQuestion": "Ask a Question",
+    "noSearchResults": "No matching results found",
+    "tryDifferentSearch": "Try searching with different keywords",
+    "deleteQuestion": "Delete question"
+  },
+  "help": {
+    "title": "Help & Support",
+    "subtitle": "Learn how RightsPath can help you understand your legal rights and access government schemes easily.",
+    "whatWeDo": {
+      "title": "What We Do",
+      "description": "RightsPath is your AI-powered assistant that simplifies complex legal information and government schemes. We provide instant, accurate answers to your questions about legal rights, government benefits, and procedures in simple, easy-to-understand language."
+    },
+    "features": {
+      "voiceText": {
+        "title": "Voice & Text Support",
+        "description": "Ask questions using your voice or by typing. Our system understands natural language in English, Hindi, and Tamil."
+      },
+      "legalRights": {
+        "title": "Legal Rights Simplified",
+        "description": "Get complex legal information explained in simple terms that everyone can understand."
+      },
+      "govSchemes": {
+        "title": "Government Schemes",
+        "description": "Discover government benefits and schemes you're eligible for, with step-by-step application guidance."
+      },
+      "instantAnswers": {
+        "title": "Instant Answers",
+        "description": "Get immediate responses to your questions, available 24/7 whenever you need help."
+      }
+    },
+    "howToUse": {
+      "title": "How to Use RightsPath",
+      "step1": {
+        "title": "Create Your Account",
+        "description": "Sign up with your email or use Google to create your account. This helps us save your question history for future reference."
+      },
+      "step2": {
+        "title": "Choose Your Language",
+        "description": "Select your preferred language from English, Hindi, or Tamil using the language selector in the top-right corner."
+      },
+      "step3": {
+        "title": "Ask Your Question",
+        "description": "Type your question or use the microphone button to ask by voice. Be specific about your situation for better answers."
+      },
+      "step4": {
+        "title": "Get Your Answer",
+        "description": "Receive detailed, easy-to-understand answers with actionable steps. All your questions are saved in your history for future reference."
+      }
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "question1": "Is RightsPath free to use?",
+      "answer1": "Yes, RightsPath is completely free to use. You can ask unlimited questions about your legal rights and government schemes without any cost.",
+      "question2": "How accurate is the legal information provided?",
+      "answer2": "Our AI system is trained on updated legal documents and government resources. However, for complex legal matters, we recommend consulting with a qualified lawyer.",
+      "question3": "Can I use RightsPath in my local language?",
+      "answer3": "Yes! RightsPath supports English, Hindi, and Tamil. You can ask questions and receive answers in your preferred language.",
+      "question4": "Is my personal information safe?",
+      "answer4": "Absolutely. We follow strict privacy guidelines and your personal information is encrypted and secure. We never share your data with third parties."
+    },
+    "languages": {
+      "title": "Available in Multiple Languages",
+      "description": "RightsPath is available in three languages to serve users across India better."
+    },
+    "support": {
+      "title": "Need More Help?",
+      "description": "If you can't find what you're looking for or encounter any issues, our support team is here to help you.",
+      "email": {
+        "title": "Email Support",
+        "description": "Send us an email and we'll respond within 24 hours."
+      },
+      "phone": {
+        "title": "Phone Support",
+        "description": "Call us during business hours for immediate assistance."
+      },
+      "hours": {
+        "title": "Support Hours",
+        "description": "Monday to Friday: 9:00 AM - 6:00 PM (IST) | Saturday: 10:00 AM - 4:00 PM (IST)"
+      }
+    },
+    "getStarted": {
+      "title": "Ready to Get Started?",
+      "description": "Join thousands of users who are already using RightsPath to understand their rights better.",
+      "button": "Start Asking Questions"
+    }
+  },
+  "dashboard": {
+    "welcomeTitle": "Welcome to RightsPath",
+    "welcomeSubtitle": "Ask any question about your legal rights or government schemes",
+    "listeningText": "Listening... Speak your question",
+    "inputPlaceholder": "Type your question here... (e.g., How to apply for ration card?)",
+    "recentQuestionsTitle": "Try These Questions",
+    "recentQuestions": [
+      "How to apply for Pradhan Mantri Awas Yojana?",
+      "What are my rights as a tenant?",
+      "How to file a consumer complaint?",
+      "Documents needed for PAN card?"
+    ]
+  },
+  "common": {
+    "submit": "Submit",
+    "search": "Search",
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success"
+  }
+}

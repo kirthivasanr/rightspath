@@ -1,0 +1,122 @@
+[
+  {
+    "id": "scheme_001",
+    "type": "scheme",
+    "title": "Pradhan Mantri Ujjwala Yojana (PMUY)",
+    "category": "Women Welfare",
+    "text": "PMUY provides free LPG connections to women from BPL households to promote clean cooking fuel. Eligible women can apply through LPG distributors by submitting Aadhaar, BPL card, and bank account details.",
+    "source": "https://www.pmuy.gov.in/"
+  },
+  {
+    "id": "scheme_002",
+    "type": "scheme",
+    "title": "Pradhan Mantri Awas Yojana (PMAY)",
+    "category": "Housing",
+    "text": "PMAY aims to provide affordable housing to the urban and rural poor with a goal of 'Housing for All'. Beneficiaries can apply online through the PMAY portal or Common Service Centres (CSCs).",
+    "source": "https://pmaymis.gov.in/"
+  },
+  {
+    "id": "scheme_003",
+    "type": "scheme",
+    "title": "Pradhan Mantri Kisan Samman Nidhi (PM-KISAN)",
+    "category": "Agriculture",
+    "text": "PM-KISAN provides income support of ₹6,000 per year to all small and marginal farmers in three equal installments. Farmers can register at the official PM-KISAN portal or local agriculture offices.",
+    "source": "https://pmkisan.gov.in/"
+  },
+  {
+    "id": "scheme_004",
+    "type": "scheme",
+    "title": "Sukanya Samriddhi Yojana (SSY)",
+    "category": "Girl Child Welfare",
+    "text": "SSY encourages savings for a girl child’s education and marriage. Parents can open accounts for girls below 10 years at post offices or banks with a minimum deposit of ₹250.",
+    "source": "https://www.nsiindia.gov.in/InternalPage.aspx?Id_Pk=89"
+  },
+  {
+    "id": "scheme_005",
+    "type": "scheme",
+    "title": "Ayushman Bharat Pradhan Mantri Jan Arogya Yojana (PM-JAY)",
+    "category": "Health",
+    "text": "PM-JAY provides health insurance coverage up to ₹5 lakh per family per year for secondary and tertiary care hospitalization. Beneficiaries can check eligibility and register on the PM-JAY website.",
+    "source": "https://pmjay.gov.in/"
+  },
+  {
+    "id": "scheme_006",
+    "type": "scheme",
+    "title": "Beti Bachao Beti Padhao (BBBP)",
+    "category": "Women & Child Development",
+    "text": "BBBP aims to prevent gender-biased sex selection and promote education for girls. Awareness programs and community mobilization are key components of this initiative.",
+    "source": "https://wcd.nic.in/bbbp-schemes"
+  },
+  {
+    "id": "scheme_007",
+    "type": "scheme",
+    "title": "Pradhan Mantri Jan Dhan Yojana (PMJDY)",
+    "category": "Financial Inclusion",
+    "text": "PMJDY provides universal access to banking facilities with at least one basic banking account, RuPay debit card, and accidental insurance cover. Accounts can be opened in any bank branch.",
+    "source": "https://pmjdy.gov.in/"
+  },
+  {
+    "id": "scheme_008",
+    "type": "scheme",
+    "title": "Stand-Up India Scheme",
+    "category": "Entrepreneurship",
+    "text": "The Stand-Up India Scheme facilitates bank loans between ₹10 lakh and ₹1 crore to at least one SC/ST borrower and one woman borrower per bank branch for setting up greenfield enterprises.",
+    "source": "https://www.standupmitra.in/"
+  },
+  {
+    "id": "scheme_009",
+    "type": "scheme",
+    "title": "Digital India Mission",
+    "category": "Technology & Governance",
+    "text": "Digital India aims to transform India into a digitally empowered society by providing universal digital literacy and easy access to government services through online platforms.",
+    "source": "https://digitalindia.gov.in/"
+  },
+  {
+    "id": "scheme_010",
+    "type": "scheme",
+    "title": "Swachh Bharat Abhiyan (SBA)",
+    "category": "Sanitation",
+    "text": "SBA focuses on eliminating open defecation, improving solid waste management, and promoting cleanliness across urban and rural areas. Citizens can contribute through the Swachh Bharat portal.",
+    "source": "https://swachhbharatmission.gov.in/"
+  },
+  {
+    "id": "scheme_011",
+    "type": "scheme",
+    "title": "Atal Pension Yojana (APY)",
+    "category": "Social Security",
+    "text": "APY provides a guaranteed minimum pension to workers in the unorganized sector after 60 years of age. Individuals aged 18–40 can enroll through their bank or post office.",
+    "source": "https://npscra.nsdl.co.in/scheme-details.php"
+  },
+  {
+    "id": "scheme_012",
+    "type": "scheme",
+    "title": "National Rural Employment Guarantee Act (MGNREGA)",
+    "category": "Employment",
+    "text": "MGNREGA guarantees 100 days of wage employment per year to every rural household whose adult members volunteer to do unskilled manual work.",
+    "source": "https://nrega.nic.in/"
+  },
+  {
+    "id": "scheme_013",
+    "type": "scheme",
+    "title": "Deen Dayal Upadhyaya Grameen Kaushalya Yojana (DDU-GKY)",
+    "category": "Skill Development",
+    "text": "DDU-GKY focuses on rural youth employment through skill training programs to make them employable in various sectors.",
+    "source": "https://ddugky.gov.in/"
+  },
+  {
+    "id": "scheme_014",
+    "type": "scheme",
+    "title": "National Social Assistance Programme (NSAP)",
+    "category": "Social Welfare",
+    "text": "NSAP provides financial assistance to elderly, widows, and persons with disabilities in the form of pensions and family benefit schemes.",
+    "source": "https://nsap.nic.in/"
+  },
+  {
+    "id": "scheme_015",
+    "type": "scheme",
+    "title": "Pradhan Mantri Fasal Bima Yojana (PMFBY)",
+    "category": "Agriculture Insurance",
+    "text": "PMFBY provides crop insurance to farmers against natural calamities, pests, and diseases. Farmers can register at their nearest Common Service Centre or online.",
+    "source": "https://pmfby.gov.in/"
+  }
+]
